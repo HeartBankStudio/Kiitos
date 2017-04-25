@@ -1,2 +1,5 @@
-# Kiitos
-A robot who became enlightened
+## Kiitos Series
+
+A robot that became _enlightened_
+
+- https://medium.com/kiitos
